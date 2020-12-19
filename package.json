@@ -1,0 +1,22 @@
+{
+  "name": "matsu0228",
+  "version": "1.0.0",
+  "description": "[![](https://raw.githubusercontent.com/matsu0228/matsu0228/master/profile-summary-card-output/vue/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)",
+  "main": "index.js",
+  "scripts": {
+    "update-profile": "node node_modules/github-profile-summary-cards/src/app.js matsu0228"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/matsu0228/matsu0228.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/matsu0228/matsu0228/issues"
+  },
+  "homepage": "https://github.com/matsu0228/matsu0228#readme",
+  "dependencies": {
+    "github-profile-summary-cards": "github:vn7n24fzkq/github-profile-summary-cards"
+  }
+}

@@ -1,0 +1,4 @@
+node_modules/
+.DS_Store
+
+# profile-summary-card-output/ を追加するとCIが失敗するので注意！
